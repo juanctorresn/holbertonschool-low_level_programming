@@ -1,4 +1,4 @@
-# incluye  < stdio.h >
+# include  < stdio.h >
 
 /* 
  * this main prints Holberton, followed by a new line.
