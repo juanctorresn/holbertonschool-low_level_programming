@@ -6,14 +6,14 @@
  */
 int main (void)
 { 
-  putchar (72);
-  putchar (111);
-  putchar( 108);
-  putchar (98);
-  putchar (101);
-  putchar (114);
-  putchar (116);
-  putchar (111);
-  putchar (110);
+ _ putchar (72);
+ _ putchar (111);
+ _ putchar( 108);
+ _ putchar (98);
+ _ putchar (101);
+ _ putchar (114);
+ _ putchar (116);
+ _ putchar (111);
+ _ putchar (110);
   return (0)
     }
